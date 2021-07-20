@@ -1,18 +1,18 @@
-### Welcome to WayneWWWWW's page
+# Welcome to WayneWWWWW's page
 
 ## Self Introduction
-# Undergraduate
+### Undergraduate
   SUSTech
-# Major
+### Major
   Financial Engineering
 
 ## Extracurricular Activity / Competition
-# Student Union
-# MCM/ICM
+### Student Union
+### MCM/ICM
   Honorable price, 2020
-# CUMCM
+### CUMCM
   Second price in Guangdong province, 2020
-# ChinaInfo100
+### ChinaInfo100
   Volunteer, 2020
 
 
