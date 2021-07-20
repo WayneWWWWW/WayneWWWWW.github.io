@@ -1,4 +1,4 @@
-# Welcome to WayneWWWWW's page
+# Welcome to WayneWWWWW's Page
 
 ## Self Introduction
 ### Undergraduate
@@ -10,6 +10,7 @@
 ### Student Union
 ### MCM/ICM
   Honorable price, 2020
+
 ### CUMCM
   Second price in Guangdong province, 2020
 ### ChinaInfo100
