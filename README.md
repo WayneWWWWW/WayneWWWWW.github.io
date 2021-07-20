@@ -1,3 +1,22 @@
+### Welcome to WayneWWWWW's page
+
+## Self Introduction
+# Undergraduate
+  SUSTech
+# Major
+  Financial Engineering
+
+## Extracurricular Activity / Competition
+# Student Union
+# MCM/ICM
+  Honorable price, 2020
+# CUMCM
+  Second price in Guangdong province, 2020
+# ChinaInfo100
+  Volunteer, 2020
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/WayneWWWWW/WayneWWWWW.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
