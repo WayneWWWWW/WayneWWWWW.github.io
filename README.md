@@ -1,10 +1,11 @@
 # Welcome to WayneWWWWW's Page
-```
+
 ## Self Introduction
-**Undergraduate:** SUSTech
+### Undergraduate
+  SUSTech
 ### Major
   Financial Engineering
-```
+
 ## Extracurricular Activity / Competition
 ### Student Union
 ### MCM/ICM
